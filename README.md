@@ -16,4 +16,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dudxz7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dudxz7&icon=5&color=0)](https://visitcount.itsvg.in)
+div align="left">
+  <a href="https://open.spotify.com/user/31j26umjwbej4n4em75mwjytz7t4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j26umjwbej4n4em75mwjytz7t4&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
