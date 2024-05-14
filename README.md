@@ -18,7 +18,17 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dudxz7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+<p align="center">
+  <b>🎵 Música no Spotify</b>
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31j26umjwbej4n4em75mwjytz7t4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31j26umjwbej4n4em75mwjytz7t4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=ffffff&bar_color_cover=false" />
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j26umjwbej4n4em75mwjytz7t4&count=5&width=350&unique=yes" alt="Spotify - Reproduzido Recentemente" />
+</p>
 
 
 
