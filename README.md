@@ -14,11 +14,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dudxz7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31j26umjwbej4n4em75mwjytz7t4?si=9847721878ab4d05">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j26umjwbej4n4em75mwjytz7t4?si=9847721878ab4d05&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
