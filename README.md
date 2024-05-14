@@ -19,4 +19,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Dudxz7&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left"> <a href="https://open.spotify.com/user/31j26umjwbej4n4em75mwjytz7t4"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=insji39zug90t3uinqfdr8jpf&count=5" alt="Spotify recently played" /> </a> </div>
+
