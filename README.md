@@ -16,4 +16,5 @@
 
 <p align="left">
 <img src="https://github.com/dudxz7/testi/blob/main/purple%20discord%20banner%20%CB%9A%E2%82%8A%20%E2%8B%86%20%F0%9F%92%9C%20(1).jpg" width="79%" alt="banner">
+<a href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/barra/barra51.gif></a>
 </p>
