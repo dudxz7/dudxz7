@@ -15,5 +15,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <p align="left">
-<img src="https://github.com/dudxz7/dudxz7/blob/main/estrelaa.gif" width="79%" alt="banner">
+<img src="https://github.com/dudxz7/dudxz7/blob/main/gato.png" width="79%" alt="banner">
 </p>
