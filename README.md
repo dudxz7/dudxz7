@@ -14,3 +14,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<p align="center">
+<img src="https://github.com/dudxz7/testi/blob/main/purple%20discord%20banner%20%CB%9A%E2%82%8A%20%E2%8B%86%20%F0%9F%92%9C%20(1).jpg" width="60%" alt="banner">
+</p>
