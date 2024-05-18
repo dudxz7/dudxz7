@@ -3,7 +3,9 @@
   
   <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dudxz7.dudxz7&left_color=black&right_color=purple&left_text=Views"  />
-  </div>
+>   </div>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dudxz7)
+
   
 
 <h1 align="center">Hi 👋, I'm Dudxz <image><img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45"> </image></h1>
