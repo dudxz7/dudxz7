@@ -2,7 +2,7 @@
 
   
   <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dudxz7&left_color=black&right_color=purple&left_text=Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dudxz7.dudxz7&left_color=black&right_color=purple&left_text=Views"  />
   </div>
   
 
