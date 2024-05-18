@@ -2,9 +2,7 @@
 
   
   <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dudxz7.dudxz7&left_color=black&right_color=purple&left_text=Views"  />
->   </div>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dudxz7)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dudxz7.dudxz7&left_color=black&right_color=purple&left_text=Views"></div>
 
   
 
