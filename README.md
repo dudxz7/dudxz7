@@ -1,7 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dudxz7&label=Profile%20views&color=480eb4&style=plastic" alt="dudxz7" /> </p>
-
-<img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45">
-
 <a href="https://github.com/dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=I'm+here+for+a+reason&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
@@ -32,7 +28,12 @@
   <a href="http:/github.com/dudxz7"><img src="https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=10&theme=midnight-purple&combine_all_yearly_contributions=true&bg_color=00000000&hide_border=true"/></a>
 </div>
 
-<p align="left">
+<div align="center">
+  <p align> <img src="https://komarev.com/ghpvc/?username=dudxz7&label=Profile%20views&color=480eb4&style=plastic" alt="dudxz7" /> </p>
+  <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45">
+</div>
+
+<p align="center">
 <img src="https://github.com/dudxz7/dudxz7/blob/main/gatinbunitin.png?raw=true" width="100%" alt="banner">
 </p>
 
