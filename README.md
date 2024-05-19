@@ -1,4 +1,4 @@
-<a href="https://github.com/dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=#D8BFD8&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=D8BFD8&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
