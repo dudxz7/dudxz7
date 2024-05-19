@@ -25,9 +25,8 @@
 
 ### 🔝 Top Contributed Repo
 <div>
-  <a href="http:/github.com/dudxz7"><img src="
+  <a href="http:/github.com/dudxz7"><img src="https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=10&theme=midnight-purple&combine_all_yearly_contributions=true"/></a>
 </div>
-![](https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=10&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <p align="left">
 <img src="https://github.com/dudxz7/dudxz7/blob/main/gato.png" width="79%" alt="banner">
