@@ -23,11 +23,18 @@
 
 
 
-<div align="center">
-  <a href="http://www.github.com/dudxz7"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dudxz7&hide=&count_private=true&bg_color=0d1117&theme=midnight-purple&hide_border=true&show_icons=true"/></a>
-  <a href="http://www.github.com/dudxz7"><img width="38.25%" src="https://github-readme-streak-stats.herokuapp.com/?user=dudxz7&theme=midnight-purple&hide_border=true&background=00000000"/></a>
-  <a href="http://www.github.com/dudxz7"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/></a>
+<div style="display: flex; justify-content: center;">
+  <a href="http://www.github.com/dudxz7" style="flex: 1; margin: 10px;">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=dudxz7&hide=&count_private=true&bg_color=0d1117&theme=midnight-purple&hide_border=true&show_icons=true"/>
+  </a>
+  <a href="http://www.github.com/dudxz7" style="flex: 1; margin: 10px;">
+    <img width="38.25%" src="https://github-readme-streak-stats.herokuapp.com/?user=dudxz7&theme=midnight-purple&hide_border=true&background=00000000"/>
+  </a>
+  <a href="http://www.github.com/dudxz7" style="flex: 1; margin: 10px;">
+    <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+  </a>
 </div>
+
 
 
 
