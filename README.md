@@ -24,16 +24,23 @@
 
 
 <div style="text-align: center;">
-  <a href="http://www.github.com/dudxz7" style="float: left; width: 60%; margin-right: 2%;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dudxz7&hide=&count_private=true&bg_color=0d1117&theme=midnight-purple&hide_border=true&show_icons=true"/>
-  </a>
-  <a href="http://www.github.com/dudxz7" style="float: left; width: 38.25%;">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dudxz7&theme=midnight-purple&hide_border=true&background=00000000"/>
-  </a>
-  <a href="http://www.github.com/dudxz7" style="float: left; width: 38.25%;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-  </a>
+  <div style="display: inline-block; width: 60%; margin-right: 2%;">
+    <a href="http://www.github.com/dudxz7">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dudxz7&hide=&count_private=true&bg_color=0d1117&theme=midnight-purple&hide_border=true&show_icons=true"/>
+    </a>
+  </div>
+  <div style="display: inline-block; width: 38.25%;">
+    <a href="http://www.github.com/dudxz7">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dudxz7&theme=midnight-purple&hide_border=true&background=00000000"/>
+    </a>
+  </div>
+  <div style="display: inline-block; width: 38.25%;">
+    <a href="http://www.github.com/dudxz7">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+    </a>
+  </div>
 </div>
+
 
 
 
