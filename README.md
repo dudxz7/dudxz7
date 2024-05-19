@@ -19,23 +19,14 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <a href="http://www.github.com/dudxz7">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=dudxz7&hide=&count_private=true&bg_color=0d1117&theme=midnight-purple&hide_border=true&show_icons=true"/></a>
-  <a href="http://www.github.com/dudxz7">
-    <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/></a>
+  <a href="http://www.github.com/dudxz7"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dudxz7&hide=&count_private=true&bg_color=0d1117&theme=midnight-purple&hide_border=true&show_icons=true"/></a>
+  <a href="http://www.github.com/dudxz7"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/></a>
 </div>
 
-
-
-
-
-
-
-
-
-
-
 ### 🔝 Top Contributed Repo
+<div>
+  <a href="http:/github.com/dudxz7"><img src="
+</div>
 ![](https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=10&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <p align="left">
