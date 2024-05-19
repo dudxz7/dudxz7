@@ -28,6 +28,6 @@
 <img src="https://github.com/dudxz7/dudxz7/blob/main/gato.png" width="79%" alt="banner">
 </p>
 
-<a href="https://github.com/KAYOKG">
+<a href="https://github.com/dudxz7">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&text=I'm+so+obssessed +with%2C+succeeding+me+a+few+days&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=55"/>
 </a>
