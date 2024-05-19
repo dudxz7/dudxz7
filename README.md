@@ -29,7 +29,7 @@
 </div>
 
 <p align="left">
-<img src="https://github.com/dudxz7/dudxz7/blob/main/gato.png" width="79%" alt="banner">
+<img src="https://github.com/dudxz7/dudxz7/blob/main/eclipse.jpg?raw=true" width="100%" alt="banner">
 </p>
 
 <a href="https://github.com/dudxz7">
