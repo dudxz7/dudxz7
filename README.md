@@ -23,6 +23,12 @@
   <a href="http://www.github.com/dudxz7"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/></a>
 </div>
 
+<div align="center">
+  <a href="http://www.github.com/dudxz7"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dudxz7&hide=&count_private=true&bg_color=ff0000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&hide_border=true&show_icons=true"/></a>
+  <a href="http://www.github.com/dudxz7"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&bg_color=ff0000&title_color=ffffff&text_color=ffffff&hide_border=true"/></a>
+</div>
+
+
 ### 🔝 Top Contributed Repo
 <div>
   <a href="http:/github.com/dudxz7"><img src="
