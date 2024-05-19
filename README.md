@@ -7,11 +7,20 @@
 </div>
 
 ### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/576729846219014144)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudxzn1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dudxzn1) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dudxz7_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dudxz7__) 
+
+<p align="center">
+  <a href="https://twitter.com/dudxz7__"><img src="https://img.shields.io/badge/-dudxz7____-blue?style=for-the-badge&logo=x&logoColor=4B0082&labelColor=black&color=black"></a>
+  <a href="https://discord.com/users/576729846219014144"><img src="https://img.shields.io/badge/-dudxz, o perspicaz-blue?style=for-the-badge&logo=Discord&logoColor=4B0082&labelColor=black&color=black"></a>
+  <a href="https://tiktok.com/@dudxzn1"><img src="https://img.shields.io/badge/dudxzn1-0078D4?style=for-the-badge&logo=TikTok&logoColor=4B0082&labelColor=black&color=black"></a>
+  <a href="https://twitch.com/dudxz7_"><img src="https://img.shields.io/badge/dudxz7__-0078D4?style=for-the-badge&logo=twitch&logoColor=4B0082&labelColor=black&color=black"></a>
+  <a href="https://instagram.com/dudxzn1"><img src="https://img.shields.io/badge/dudxzn1-0078D4?style=for-the-badge&logo=instagram&logoColor=4B0082&labelColor=black&color=black"></a>
+</p>
 
 ### ⚒️ Languages and Tools:
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+</div>
 ### 📊 GitHub Stats:
 
 <a href=https://www.gifs-animados.net><img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif"></a>
