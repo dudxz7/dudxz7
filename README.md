@@ -8,7 +8,7 @@
 
 ### 🌐 Socials:
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/dudxz7__"><img src="https://img.shields.io/badge/-dudxz7____-blue?style=for-the-badge&logo=x&logoColor=4B0082&labelColor=black&color=black"></a>
   <a href="https://discord.com/users/576729846219014144"><img src="https://img.shields.io/badge/-dudxz, o perspicaz-blue?style=for-the-badge&logo=Discord&logoColor=4B0082&labelColor=black&color=black"></a>
   <a href="https://tiktok.com/@dudxzn1"><img src="https://img.shields.io/badge/dudxzn1-0078D4?style=for-the-badge&logo=TikTok&logoColor=4B0082&labelColor=black&color=black"></a>
@@ -17,21 +17,21 @@
 </p>
 
 ### ⚒️ Languages and Tools:
-<div align="center">
+<div align="left">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
 ### 📊 GitHub Stats:
 
-<a href=https://www.gifs-animados.net><img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif"></a>
+<a href="https://github.com/dudxz7"><img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif"></a>
 
 <div align="center">
   <a href="http://www.github.com/dudxz7"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dudxz7&hide=&count_private=true&bg_color=0d1117&theme=midnight-purple&hide_border=true&show_icons=true"/></a>
   <a href="http://www.github.com/dudxz7"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/></a>
 </div>
 
-<a href=https://www.gifs-animados.net><img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif"></a>
+<a href="https://github.com/dudxz7"><img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif"></a>
 
 ### 🔝 Top Contributed Repo
 <div>
