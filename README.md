@@ -24,14 +24,14 @@
 
 ### 📊 GitHub Stats:
 
-<a href=https://www.gifs-animados.net><img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif"></a>
+<a href="https://www.github.com/dudxz7"><img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif"></a>
 
 <div align="center">
   <a href="http://www.github.com/dudxz7"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dudxz7&hide=&count_private=true&bg_color=0d1117&theme=midnight-purple&hide_border=true&show_icons=true"/></a>
   <a href="http://www.github.com/dudxz7"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&langs_count=5&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/></a>
 </div>
 
-<a href=https://www.gifs-animados.net><img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif"></a>
+<a href="https://www.github.com/dudxz7"><img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif"></a>
 
 ### 🔝 Top Contributed Repo
 <div>
