@@ -35,7 +35,7 @@
 
 ### 🔝 Top Contributed Repo
 <div>
-  <a href="http:/github.com/dudxz7"><img src="https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=15&theme=midnight-purple&combine_all_yearly_contributions=true&bg_color=00000000&hide_border=true"/></a>
+  <a href="http:/github.com/dudxz7"><img src="https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=16&theme=midnight-purple&combine_all_yearly_contributions=true&bg_color=00000000&hide_border=true"/></a>
 </div>
 
 <div align="center">
