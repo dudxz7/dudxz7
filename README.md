@@ -44,7 +44,7 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/dudxz7/dudxz7/blob/main/img/gatinbunitin.png?raw=true" width="100%" alt="banner">
+<img src="https://github.com/dudxz7/dudxz7/blob/main/img/gatooooooo.jpg?raw=true" width="100%" alt="banner">
 </p>
 
 <a href="https://github.com/dudxz7">
