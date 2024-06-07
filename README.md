@@ -47,6 +47,6 @@
 <img src="https://github.com/dudxz7/dudxz7/blob/main/img/gatooooooo.jpg?raw=true" width="100%" alt="banner">
 </p>
 
-<a href="https://github.com/dudxz">
+<a href="https://github.com/dudxz7">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&text=I'm+so+obsessed+with+succeeding%2C+there+is+no+other+way&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=55"/>
 </a>
