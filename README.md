@@ -84,8 +84,8 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=4B0082&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
+  <a href="https://github.com/dudxz7">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=4B0082&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+you+later!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
   </a>
 </div>
 
