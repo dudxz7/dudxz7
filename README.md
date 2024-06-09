@@ -64,6 +64,33 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
 <img src="https://github.com/dudxz7/dudxz7/blob/main/img/gatooooooo.jpg?raw=true" width="100%" alt="banner">
 </p>
 
+<!-- Footer antigo
 <a href="https://github.com/dudxz7">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&text=I'm+so+obsessed+with+succeeding%2C+there+is+no+other+way&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=55"/>
 </a>
+-->
+
+<!-- Contador de Visita nesse estilo: 1️⃣2️⃣4️⃣5️⃣6️⃣, porém as visitas totais são resetadas
+<div align="center">
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <a href="#">
+      <img align="center" src="https://profile-counter.glitch.me/{dudxz7}/count.svg" alt="VisitorsCount-SVG" title="Dudxz7's Profile Visitors Counter"/>
+    </a>
+  </p> 
+</div>
+-->
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=4B0082&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/dudxz7">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+  </a>
+</div>
