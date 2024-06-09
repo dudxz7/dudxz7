@@ -1,10 +1,27 @@
-<a href="https://github.com/dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=I'm+here+for+a+reason&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=35"/></a>
+<div align="center">
+  <a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+  </a>
+</div>
 
+<!-- Versão com texto dentro
+<a href="https://github.com/
+dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=I'm+here+for+a+reason&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=35"/></a>
+-->
+
+<div align="center">
+  <a href="https://github.com/dudxz7">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=4B0082&center=true&vCenter=true&width=900&height=100&lines=Be+Welcome!🎉;Hi👋%2CI'm+dudxz!;I'm+16+years+old.;I'm+from+Ceará%2C+Brazil.;I'm+a+student." alt="Typing_SVG" title="Welcome, welcome! :)"/>
+  </a>
+</div>
+
+<!-- primeira Interação com o usuário
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=HI👋,+I+am+Luiz+Eduardo;I'm+16+years+old;I+am+from+Fortaleza,+CE;Be+Welcome!🎉)](https://github.com/dudxz7)
 
 </div>
+-->
 
 ### 🌐 Socials:
 
