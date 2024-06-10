@@ -83,7 +83,7 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
 
 <!-- Banner de gato -->
 <p align="center">
-<img src="https://github.com/dudxz7/dudxz7/blob/main/img/gatooooooo.jpg?raw=true" width="100%" alt="banner">
+<img src="https://github.com/dudxz7/dudxz7/blob/main/Assets/banner/redcat.jpg" width="100%" alt="banner">
 </p>
 
 <!-- Footer antigo
