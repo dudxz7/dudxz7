@@ -71,7 +71,7 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <a href="http:/github.com/dudxz7"><img src="https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=17&theme=rose&combine_all_yearly_contributions=true&bg_color=00000000&hide_border=true"/></a>
+  <a href="http:/github.com/dudxz7"><img src="https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=18&theme=rose&combine_all_yearly_contributions=true&bg_color=00000000&hide_border=true"/></a>
 </div>
 
 <!--Icone do gatinho doido-->
