@@ -81,9 +81,9 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
   <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45">
 </div>
 
-<!-- Banner de gato -->
+<!-- Banner de gato --> 
 <p align="center">
-<img src="https://github.com/dudxz7/dudxz7/blob/main/Assets/banner/redcat.jpg" width="100%" alt="banner">
+<img src="https://github.com/dudxz7/dudxz7/blob/main/Assets/banner/gatinhohelokitty.png?raw=true" width="100%" alt="banner">
 </p>
 
 <!-- Footer antigo
