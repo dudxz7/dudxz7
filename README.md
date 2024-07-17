@@ -79,7 +79,7 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=dudxz7&label=Profile%20views&color=ff0000&style=plastic" alt="dudxz7" /></p>
   
-<!--Icone do gatinho doido-->
+<!--Icone do gatinho fofo-->
   <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45">
 </div>
 
