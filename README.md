@@ -99,7 +99,7 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
     <a href="#">
-      <img align="center" src="https://profile-counter.glitch.me/{dudxz7}/count.svg" alt="VisitorsCount-SVG" title="Dudxz7's Profile Visitors Counter"/>
+      <img align="center" src="https://profile-counter.glitch.me/{dudxz7}/count.svg" title="Dudxz7's Profile Visitors Counter"/>
     </a>
   </p> 
 </div>
