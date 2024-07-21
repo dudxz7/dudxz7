@@ -65,7 +65,7 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
 </div>
 
 
-<!-- Barinha animada Vermelha
+<!-- Barinha animada ( Vermelha )
 <a href="https://www.github.com/dudxz7"><img width="100%" src="https://www.gifs-animados.net/barra/barra54.gif"></a>
 --> 
 
