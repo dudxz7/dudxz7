@@ -120,3 +120,5 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5141e&height=120&section=footer"/>
   </a>
 </div>
+
+<!-- tô com preguiça -->
