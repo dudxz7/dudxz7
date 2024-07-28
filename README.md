@@ -121,4 +121,4 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
   </a>
 </div>
 
-<!-- tô com preguiça -->
+<!-- tô com preguiça e pra minha ex ( you never find nobody better than me ) -->
