@@ -1,4 +1,4 @@
-                                                                made with  <3 by @dudxzn1
+                                                                <!--made with  <3 by @dudxzn1-->
 <div align="center">
   <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5141e&height=120&section=header"/>
