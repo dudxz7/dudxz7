@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<!-- Versão com texto dentro ( estoy procastinando + im come back )
+<!-- Versão com texto dentro ( estoy procastinando + im come back off )
 <a href="https://github.com/
 dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=I'm+here+for+a+reason&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=35"/></a>
 -->
