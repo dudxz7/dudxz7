@@ -46,31 +46,6 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
-### 📊 GitHub Stats:
-
-Barinha animada Vermelha
-<a href="https://www.github.com/dudxz7"><img width="100%" src="https://www.gifs-animados.net/barra/barra54.gif"></a>
-<div align="center">
-  <a href="https://github.com/dudxz7">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/dudxz7">
-    <img width="49%" height="195px"
-      src="https://github-readme-stats.vercel.app/api?username=dudxz7&show_icons=true&count_private=true&hide_border=true&title_color=e73737&icon_color=e73737&text_color=e7f6f3&bg_color=0d1117" />
-  </a>
-
-  <a href="https://github.com/dudxz7">
-    <img width="49%" height="195px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&layout=compact&hide_border=true&title_color=e73737&text_color=e7f6f3&bg_color=0d1117" />
-  </a>
-</div>
-
-
-
-<a href="https://www.github.com/dudxz7"><img width="100%" src="https://www.gifs-animados.net/barra/barra54.gif"></a>
 
 
 ### 🔝 Top Contributed Repo
