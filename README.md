@@ -6,12 +6,12 @@
   </a>
 </div>
 
-<!-- Versão com texto dentro ( estoy procastinando + im come back off )
+
 <a href="https://github.com/
 dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=I'm+here+for+a+reason&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=35"/></a>
--->
 
-<!--primeira Interação com o usuário -->
+
+
 
 <div align="center">
   <a href="https://github.com/dudxz7">
@@ -19,13 +19,13 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
   </a>
 </div>
 
-<!-- primeira Interação com o usuário antiga
+
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=HI👋,+I+am+Luiz+Eduardo;I'm+16+years+old;I+am+from+Fortaleza,+CE;Be+Welcome!🎉)](https://github.com/dudxz7)
 
 </div>
--->
+
 
 ### 🌐 Socials:
 
@@ -67,9 +67,9 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
 </div>
 
 
-<!-- Barinha animada ( Vermelha )
+
 <a href="https://www.github.com/dudxz7"><img width="100%" src="https://www.gifs-animados.net/barra/barra54.gif"></a>
---> 
+
 
 ### 🔝 Top Contributed Repo
 <div align="center">
@@ -90,13 +90,12 @@ dudxz7"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&c
 <img src="https://github.com/dudxz7/dudxz7/blob/main/Assets/banner/BerseckEclipse.jpg?raw=true" width="100%" alt="banner">
 </p>
 
-<!-- Footer antigo
+ Footer antigo
 <a href="https://github.com/dudxz7">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&text=I'm+so+obsessed+with+succeeding%2C+there+is+no+other+way&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=55"/>
 </a>
--->
 
-<!-- Contador de Visita nesse estilo: 1️⃣2️⃣4️⃣5️⃣6️⃣, porém as visitas totais são resetadas
+Contador de Visita nesse estilo: 1️⃣2️⃣4️⃣5️⃣6️⃣, porém as visitas totais são resetadas
 <div align="center">
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
