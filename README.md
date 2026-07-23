@@ -50,22 +50,21 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 Barinha animada Vermelha
 <a href="https://www.github.com/dudxz7"><img width="100%" src="https://www.gifs-animados.net/barra/barra54.gif"></a>
-
 <div align="center">
   <a href="https://github.com/dudxz7">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header">
   </a>
 </div>
 
-
-<div align="center">  
-  <a href="https://github.com/dudxz7"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dudxz7&show_icons=true&count_private=true&hide_border=true&title_color=e73737&icon_color=e73737&text_color=e7f6f3&bg_color=0d1117" alt="Dudxz7 github stats" /></a>
-  <a href="https://github.com/dudxz7"><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&layout=compact&hide_border=true&title_color=e73737&text_color=e7f6f3&bg_color=0d1117" /> </a>
-</div>
-
 <div align="center">
   <a href="https://github.com/dudxz7">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+    <img width="49%" height="195px"
+      src="https://github-readme-stats.vercel.app/api?username=dudxz7&show_icons=true&count_private=true&hide_border=true&title_color=e73737&icon_color=e73737&text_color=e7f6f3&bg_color=0d1117" />
+  </a>
+
+  <a href="https://github.com/dudxz7">
+    <img width="49%" height="195px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxz7&layout=compact&hide_border=true&title_color=e73737&text_color=e7f6f3&bg_color=0d1117" />
   </a>
 </div>
 
