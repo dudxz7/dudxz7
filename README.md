@@ -13,13 +13,12 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 
 
+
 <div align="center">
-  <a href="https://github.com/dudxz7">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=c5141e&center=true&vCenter=true&width=900&height=100&lines=Be+Welcome!🎉;Hi👋%2CI'm+dudxz!;I'm+16+years+old.;I'm+from+Ceará%2C+Brazil.;I'm+a+student." alt="Typing_SVG" title="Welcome, welcome! :)"/>
-  </a>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=HI👋,+I+am+Luiz+Eduardo;I'm+16+years+old;I+am+from+Fortaleza,+CE;Be+Welcome!🎉)](https://github.com/dudxz7)
+
 </div>
-
-
 
 
 
