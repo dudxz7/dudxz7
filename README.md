@@ -20,7 +20,15 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 </div>
 
-
+<div align="center">
+  <a href="https://github.com/dudxz7">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=C5141E&center=true&vCenter=true&width=900&height=100&lines=Be+Welcome!;Hi%2C+I%27m+dudxz!;I%27m+16+years+old.;I%27m+from+Cear%C3%A1%2C+Brazil.;I%27m+a+student."
+      alt="Typing SVG"
+      title="Welcome!"
+    />
+  </a>
+</div>
 
 ### 🌐 Socials:
 
