@@ -49,8 +49,11 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 
 ### 🔝 Top Contributed Repo
+
 <div align="center">
-  <a href="http:/github.com/dudxz7"><img src="https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=19&theme=rose&combine_all_yearly_contributions=true&bg_color=00000000&hide_border=true"/></a>
+  <a href="https://github.com/dudxz7">
+    <img src="https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=19&theme=rose&combine_all_yearly_contributions=true&bg_color=00000000&hide_border=true"/>
+  </a>
 </div>
 
 
@@ -72,18 +75,8 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&text=I'm+so+obsessed+with+succeeding%2C+there+is+no+other+way&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=55"/>
 </a>
 
-Contador de Visita nesse estilo: 1️⃣2️⃣4️⃣5️⃣6️⃣, porém as visitas totais são resetadas
-<div align="center">
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <a href="#">
-      <img align="center" src="https://profile-counter.glitch.me/{dudxz7}/count.svg" title="Dudxz7's Profile Visitors Counter"/>
-    </a>
-  </p> 
-</div>
--->
 
-<br>
+
 
 <!--Thanks For Visiting :) -->
 
