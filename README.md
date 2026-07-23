@@ -46,17 +46,6 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
-
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-  <a href="https://github.com/dudxz7">
-    <img src="https://github-contributor-stats.vercel.app/api?username=dudxz7&limit=19&theme=rose&combine_all_yearly_contributions=true&bg_color=00000000&hide_border=true"/>
-  </a>
-</div>
-
-
 <!--Profile Viewers-->
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=dudxz7&label=Profile%20views&color=ff0000&style=plastic" alt="dudxz7" /></p>
