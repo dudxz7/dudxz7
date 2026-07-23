@@ -20,11 +20,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 </div>
 
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=HI👋,+I+am+Luiz+Eduardo;I'm+16+years+old;I+am+from+Fortaleza,+CE;Be+Welcome!🎉)](https://github.com/dudxz7)
 
-</div>
 
 
 ### 🌐 Socials:
