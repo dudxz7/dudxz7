@@ -48,9 +48,9 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 ### 📊 GitHub Stats:
 
-<!-- Barinha animada Vermelha
+Barinha animada Vermelha
 <a href="https://www.github.com/dudxz7"><img width="100%" src="https://www.gifs-animados.net/barra/barra54.gif"></a>
---> 
+
 <div align="center">
   <a href="https://github.com/dudxz7">
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
