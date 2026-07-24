@@ -6,7 +6,10 @@
   </a>
 </div>
 
-
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:4c1d8f,6b21a8,9c28d4&height=230&section=top&reversal=true&text=Luiz%20Eduardo&animation=twinkling&fontAlign=50&fontAlignY=30&textBg=false&fontSize=60&rotate=0&desc=☕%20Vibe%20Coding&descAlignY=50&reversal=false&descSize=20&fontColor=ffffff&descAlign=62" alt="Header - Luiz Eduardo | Vibe Coding "/>
+</div>
+ 
 <a href="https://github.com/
 dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=I'm+here+for+a+reason&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=35"/></a>
 
