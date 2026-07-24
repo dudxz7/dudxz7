@@ -30,7 +30,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 <!-- 🇧🇷:  FOTO CARTOON 2D --> 
 
 <div align="center">
-  <img src="assets/images/avatar-cartoon.png" width="140" height="140" style="border-radius:50%;" alt="Avatar do Dudxz" />
+  <img src="assets/images/avatar-cartoon.png" width="200px" height="300"alt="Avatar do Dudxz" />
 </div>
 
  
