@@ -2,9 +2,10 @@
 
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000D5C,25:001A8C,50:0033CC,75:001F99,100:000B3D&height=120&section=header"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,25:001D3D,50:003566,75:001845,100:000814&height=120&section=header"/>
   </a>
 </div>
+
 
 <a href="https://github.com/
 dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=I'm+here+for+a+reason&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=35"/></a>
