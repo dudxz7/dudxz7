@@ -1,10 +1,6 @@
 <!--made with  <3 by @dudxzn1 -->
 
-<div align="center">
-  <a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:0033CC&height=120&section=header"/>
-  </a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0099FF,100:004DFF&height=120&section=header"/>
 
 
 <a href="https://github.com/
