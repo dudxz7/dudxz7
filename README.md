@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5141e&height=120&section=header"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,35:00A2FF,70:005BFF,100:001F99&height=120&section=header"/>
   </a>
 </div>
 
