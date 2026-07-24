@@ -62,23 +62,24 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 <!--Profile Viewers-->
 <div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=dudxz7&label=Profile%20views&color=ff0000&style=plastic" alt="dudxz7" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=dudxz7&label=Profile%20views&color=002D72&style=plastic" alt="dudxz7" /></p>
+
   
- 
-<a href="https://github.com/dudxz7">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&text=I'm+so+obsessed+with+succeeding%2C+there+is+no+other+way&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=55"/>
-</a>
-
-
-
-
 <!--Thanks For Visiting :) -->
 
 <div align="center">
   <a href="https://github.com/dudxz7">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=c5141e&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+you+later!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
   </a>
+
+<!-- 🇧🇷: Frase ou Seu nome
+
 </div>
+ <a href="https://github.com/dudxz7">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&text=I'm+so+obsessed+with+succeeding%2C+there+is+no+other+way&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=55"/>
+</a>
+
+-->
 
 <div align="center">
   <a href="https://github.com/dudxz7">
