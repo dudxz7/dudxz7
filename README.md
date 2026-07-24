@@ -82,8 +82,14 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 <div align="center">
   <a href="https://github.com/dudxz7">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5141e&height=120&section=footer"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,20:001845,45:002B8A,70:001845,100:000814&height=120&section=footer"/>
+
+    <!-- 🇧🇷: Outras variantes de cores // só substituir
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001A8C,25:0028B8,50:0038E6,75:0027A8,100:00145C&height=120&section=footer"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,25:001D3D,50:003566,75:001845,100:000814&height=120&section=footer"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:000B3D,50:001F99,80:000B3D,100:000000&height=120&section=footer"/>
+    -->
+
   </a>
 </div>
 
-<!-- tô com preguiça e pra minha ex ( you never find nobody better than me ) -->
