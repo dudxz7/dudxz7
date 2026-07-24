@@ -4,7 +4,7 @@
   <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,20:001845,45:002B8A,70:001845,100:000814&height=120&section=header"/>
     <!-- 
-    Outras variantes de cores // só substituir 
+    🇧🇷: Outras variantes de cores // só substituir 
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001A8C,25:0028B8,50:0038E6,75:0027A8,100:00145C&height=120&section=header"/>
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,25:001D3D,50:003566,75:001845,100:000814&height=120&section=header"/>
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:000B3D,50:001F99,80:000B3D,100:000000&height=120&section=header"/>
@@ -12,17 +12,22 @@
   </a>
 </div>
 
+<!-- 🇧🇷: Nome + Descrição
+
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:4c1d8f,6b21a8,9c28d4&height=230&section=top&reversal=true&text=Luiz%20Eduardo&animation=twinkling&fontAlign=50&fontAlignY=30&textBg=false&fontSize=60&rotate=0&desc=☕%20Vibe%20Coding&descAlignY=50&reversal=false&descSize=20&fontColor=ffffff&descAlign=62" alt="Header - Luiz Eduardo | Vibe Coding "/>
 </div>
+
+ !-->
+
+ <!-- 🇧🇷: Frase ou Seu nome 
  
 <a href="https://github.com/
 dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=I'm+here+for+a+reason&fontSize=30&fontColor=4B0082&animation=twinkling&fontAlignY=35"/></a>
 
+ !-->
 
-
-
-
+ 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=HI👋,+I+am+Luiz+Eduardo;I'm+16+years+old;I+am+from+Fortaleza,+CE;Be+Welcome!🎉)](https://github.com/dudxz7)
@@ -39,7 +44,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
   </a>
 </div>
 
-### 🌐 Socials:
+### 🌐 Socials: 
 
 <p align="center">
   <a href="https://twitter.com/dudxz7__"><img src="https://img.shields.io/badge/-dudxz7____-blue?style=for-the-badge&logo=x&logoColor=c5141e&labelColor=black&color=black"></a>
